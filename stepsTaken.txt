@@ -1,0 +1,4 @@
+I used "git init" to create a new git repository
+Then I created a txt file and added it to the "staging" area
+Next I "committed" this file and then "pushed" this to the repo on github.
+Finally I made a change to the txt file and added,committed, and finally pushed up this update.
